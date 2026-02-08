@@ -1,0 +1,11 @@
+springdoc:
+  swagger-ui:
+    path: /swagger
+
+server:
+  port: 8000
+
+jwt:
+  secret: ZHVtbXktc3ByaW5nLWJvb3Qtand0LXNlY3JldC1rZXktMzIteHl6
+  expiration: 3600000
+
