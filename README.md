@@ -9,3 +9,6 @@ Authorization
 
 Database 
 Sql Server
+
+User : admin
+pwd  : 123
